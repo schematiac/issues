@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Licensing, seats, and billing
+    url: mailto:support@solidcloud.io
+    about: Licence keys, team seats, air-gap keys, and purchases — not GitHub issues.
+  - name: Documentation
+    url: https://docs.schematiac.com
+    about: How the canvas, Analyze, Upgrade Preview, and MCP work.
