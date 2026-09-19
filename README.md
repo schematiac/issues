@@ -8,5 +8,5 @@ The product source is private. File bugs, parse failures, and feature
 requests here. Do not paste customer Terraform or Bicep — a public sample
 or a stripped-down snippet is enough.
 
-Licensing, seats, and billing stay at
+Licensing, seats, and billing email us at:
 [support@solidcloud.io](mailto:support@solidcloud.io).
